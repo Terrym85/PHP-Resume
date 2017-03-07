@@ -1,4 +1,4 @@
 # php
-PHP Resume template
+PHP Basic Webpage
 
 Run in text Editor to view the Resume. I used Atom to create the Template thanks!
